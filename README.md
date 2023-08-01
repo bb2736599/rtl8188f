@@ -9,7 +9,7 @@ info: rtl8188fu support will be add to rtl8xxxu module of Linux kernel. https://
 
 `sudo apt-get install build-essential git dkms linux-headers-$(uname -r)`
 
-`git clone https://github.com/kelebek333/rtl8188fu`
+`git clone https://github.com/bb2736599/rtl8188f`
 
 `sudo dkms install ./rtl8188fu`
 
